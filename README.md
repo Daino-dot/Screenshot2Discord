@@ -4,3 +4,9 @@ Takes automatic screenshots every 10 seconds and sends them to Discord. Backgrou
 ----------------------------------------------------------------
 you just need to edit the webhook and the time you want.
 ----------------------------------------------------------------
+
+# If you want to make an .exe file to prevent the terminal from opening at startup, run "pyinstaller --noconsole --onefile screenshot.pyw"
+
+----------------------------------------------------------------
+Discord: https://discord.gg/MSukhfr6k3
+----------------------------------------------------------------

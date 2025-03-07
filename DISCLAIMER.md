@@ -1,12 +1,12 @@
 # 📜 Legal and Ethical Notice
-** 1. Software Purpose **
+**1. Software Purpose**
 - This software is intended exclusively for educational purposes, technical testing, or authorized audits on devices you own. Examples of legitimate uses:
 
 - Monitoring personal devices with your consent.
 
 - Security testing in controlled environments.
 
-** 2. Misuse Warning **
+**2. Misuse Warning**
 **⚠️ The following actions are strictly prohibited:**
 
 - Installing it on third-party devices without explicit consent.

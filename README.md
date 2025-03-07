@@ -10,5 +10,5 @@ you just need to edit the webhook and the time you want.
 ----------------------------------------------------------------
 Discord: https://discord.gg/y92sn3EsWR
 ----------------------------------------------------------------
-# Read DISCLAIMER.md 
+# Read [DISCLAIMER.md ](https://github.com/Daino-dot/Screenshot2Discord/blob/main/DISCLAIMER.md)
 ----------------------------------------------------------------

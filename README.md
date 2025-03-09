@@ -10,7 +10,7 @@ If you want to make an .exe file to prevent the terminal from opening at startup
 
 github.com/Daino-dot
 dc   $  daino_daino
-srv  $  https://discord.gg/y92sn3EsWR
+srv  $  discord.gg/y92sn3EsWR
 
 ## ✨ Features
 - 🔥 Webcam photos

